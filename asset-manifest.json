@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Qlang/static/css/main.2c6d2cdf.css",
-    "main.js": "/Qlang/static/js/main.f6d74af4.js",
+    "main.js": "/Qlang/static/js/main.ce66a3ee.js",
     "static/js/453.e8035269.chunk.js": "/Qlang/static/js/453.e8035269.chunk.js",
     "index.html": "/Qlang/index.html",
     "main.2c6d2cdf.css.map": "/Qlang/static/css/main.2c6d2cdf.css.map",
-    "main.f6d74af4.js.map": "/Qlang/static/js/main.f6d74af4.js.map",
+    "main.ce66a3ee.js.map": "/Qlang/static/js/main.ce66a3ee.js.map",
     "453.e8035269.chunk.js.map": "/Qlang/static/js/453.e8035269.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c6d2cdf.css",
-    "static/js/main.f6d74af4.js"
+    "static/js/main.ce66a3ee.js"
   ]
 }
